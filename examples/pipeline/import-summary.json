@@ -1,0 +1,16 @@
+{
+  "first_import": {
+    "inserted": 8,
+    "duplicates": 0,
+    "rejected": 0,
+    "blank_lines": 0,
+    "issues": []
+  },
+  "second_import": {
+    "inserted": 0,
+    "duplicates": 8,
+    "rejected": 0,
+    "blank_lines": 0,
+    "issues": []
+  }
+}

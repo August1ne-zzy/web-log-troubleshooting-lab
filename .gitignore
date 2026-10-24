@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+logs/
+data/
+*.sqlite3
+*.sqlite3-*
+# Private learning notes contain machine paths and conversation-specific records.
+PROGRESS.md
+docs/session01.md
+docs/PUBLISH_REVIEW.md

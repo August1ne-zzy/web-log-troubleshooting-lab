@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-24T10:44:13.143+00:00", "request_id": "9b59ebe6-ede3-4d82-856a-166b0fcf38c5", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/", "status": 200, "duration_ms": 0.197}
+{"timestamp": "2026-10-24T10:44:13.144+00:00", "request_id": "71d71ceb-89e1-44fc-8f6a-16e0dc56f6eb", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/report", "status": 200, "duration_ms": 0.889}
+{"timestamp": "2026-10-24T10:44:13.146+00:00", "request_id": "b92c1b26-c348-42a5-85dc-f5cf2c071f04", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/", "status": 200, "duration_ms": 0.111}
+{"timestamp": "2026-10-24T10:44:13.147+00:00", "request_id": "1da9d822-d403-4c8f-ad1c-48f93a759b42", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/report", "status": 500, "duration_ms": 0.79}
+{"timestamp": "2026-10-24T10:44:13.148+00:00", "request_id": "ecbe26bf-710c-4961-844d-929edb192b4b", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/", "status": 200, "duration_ms": 0.139}
+{"timestamp": "2026-10-24T10:44:13.149+00:00", "request_id": "de9bae51-8e5b-47bf-9e9c-4ad2e0c96253", "environment": "local-lab", "traffic_type": "synthetic", "method": "GET", "path": "/report", "status": 200, "duration_ms": 0.709}
